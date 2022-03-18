@@ -7,14 +7,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ashrafjfr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About</title>
-      <link>https://ashrafjfr.github.io/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <title>About Me</title>
+      <link>https://ashrafjfr.github.io/aboutme/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://ashrafjfr.github.io/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <guid>https://ashrafjfr.github.io/aboutme/</guid>
+      <description>Who Am I?My name is Ashraf and I’m a sophomore undergraduate currently pursuing a Computer Engineering Degree at the National University of Singapore (NUS). I am also an aspiring entrepreneur with a goal to create my own startup that can make the world a better place through innovative products for the masses!
+I have a strong passion in analyzing companies and strategizing possible angles for upscaling businesses.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://ashrafjfr.github.io/education/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashrafjfr.github.io/education/</guid>
+      <description>National University of Singapore (NUS)</description>
     </item>
     
     <item>
@@ -23,17 +31,6 @@ Hugo makes use of a variety of open source projects including:
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>https://ashrafjfr.github.io/contactme/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
-    </item>
-    
-    <item>
-      <title>Education</title>
-      <link>https://ashrafjfr.github.io/education/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ashrafjfr.github.io/education/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
