@@ -7,6 +7,28 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://ashrafjfr.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Let&#39;s Connect 👋</title>
+      <link>https://ashrafjfr.github.io/contact/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashrafjfr.github.io/contact/</guid>
+      <description>Phone: +65 9088 3550
+Email: ashraf.j@u.nus.edu
+Telegram: @ashrafjfr
+LinkedIn | GitHub | Instagram
+Feel free to download my resume here!</description>
+    </item>
+    
+    <item>
+      <title>Skills</title>
+      <link>https://ashrafjfr.github.io/skills/</link>
+      <pubDate>Mon, 21 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://ashrafjfr.github.io/skills/</guid>
+      <description>Technical Skills   Skill Level     C/C++ Intermediate   Java Intermediate   HTML/CSS Basic   Javascript Basic   Python Basic   ROS Basic   SLAM Intermediate   Verilog Intermediate   Assembly Language Intermediate   Project Management Intermediate   Git/GitHub Intermediate   Microsoft Word Proficient   Microsoft PowerPoint Proficient   Microsoft Excel Intermediate    Creative Skills   Skill Level     Adobe Creative Cloud (Photoshop, XD, Illustrator, Lightroom, Premiere) Intermediate   Figma Intermediate   Canva Proficient   iMovie Proficient   Photography Proficient   Videography Intermediate   Social Media Marketing Intermediate   Copywriting Proficient    </description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>https://ashrafjfr.github.io/aboutme/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
@@ -22,7 +44,7 @@ I have a strong passion in analyzing companies and strategizing possible angles 
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       
       <guid>https://ashrafjfr.github.io/education/</guid>
-      <description>National University of Singapore (NUS)August 2020 - PresentBachelors of Engineering: Computer Engineering (Honours)   Relevant Courses Skills Learnt     Engineering Principles and Practice I &amp;amp; II C/C++, Robotics, Arduino, LiDAR,   Programming Methodology C, Vim, Linux, Bash   Data Structures and Algorithms C++   Digital Design Verilog   Computer Organisation Assembly Language   Software Engineering and Object-Oriented Programming Java, Git/GitHub   Real-Time Operating Systems (in progress) Embedded Systems, C, Microcontroller programming, OS concepts, scheduling algorithms   Signals and Systems (in progress) Fourier transform, sampling, signal reconstruction, filtering   Design and Analysis of Algorithms (in progress) Framework for algorithm analysis    Raffles Institution (RI)January 2012 - December 2017Singapore-Cambridge General Certificate of Education Advanced LevelScience Stream (Biology, Chemistry, Mathematics, Economics)</description>
+      <description>National University of Singapore (NUS)August 2020 - PresentBachelors of Engineering: Computer Engineering (Honours)   Relevant Courses Skills Learnt     Engineering Principles and Practice I &amp;amp; II C/C++, Robotics, Arduino, LiDAR, ROS, SLAM   Programming Methodology C, Vim, Linux, Bash   Data Structures and Algorithms C++, Basic Data Structures, Searching and Sorting Algorithms   Digital Design Verilog, Digital Logic, Digital Circuits   Computer Organisation Assembly Language, Computer Microarchitecture, Memory Systems   Software Engineering and Object-Oriented Programming Java, Git/GitHub, Agile Methodology, Scrum, User Stories, Product Testing   Real-Time Operating Systems (in progress) Embedded Systems, Microcontroller Programming, OS Concepts, Scheduling Algorithms   Signals and Systems (in progress) Fourier Transform, Sampling, Signal Reconstruction, Filtering   Design and Analysis of Algorithms (in progress) Framework for Algorithm Analysis    Raffles Institution (RI)January 2012 - December 2017Singapore-Cambridge General Certificate of Education Advanced LevelScience Stream (Biology, Chemistry, Mathematics, Economics)</description>
     </item>
     
     <item>
@@ -42,28 +64,6 @@ I have a strong passion in analyzing companies and strategizing possible angles 
       
       <guid>https://ashrafjfr.github.io/projects/</guid>
       <description>ConTechA Command Line Interface (CLI) application for managing computing-related contacts. Optimised for use on the CLI, ConTech allows you to seamlessly add, edit, view, list, search, and import your contacts. ConTech aims to improve your efficiency at work, be it by cutting down the time required to look up for various usernames when working with colleagues, or by importing hundreds of contacts with just one simple command.</description>
-    </item>
-    
-    <item>
-      <title>Contact Me</title>
-      <link>https://ashrafjfr.github.io/contactme/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ashrafjfr.github.io/contactme/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
-    </item>
-    
-    <item>
-      <title>Skills</title>
-      <link>https://ashrafjfr.github.io/skills/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://ashrafjfr.github.io/skills/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
     </item>
     
   </channel>
