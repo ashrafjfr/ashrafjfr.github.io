@@ -197,8 +197,18 @@
   </a>
 </h2>
 <p>Alex is a remotely operated Search-and-Rescue robot that can assist disaster rescue teams in gathering data of the environment and locate victims within the disater-stricken area. A remote operator can control Alex by transmitting commands to and receiving information from the Raspberry Pi on Alex. The Pi communicates with an Arduino also on Alex through the Universal Synchronous/Asynchronous Receiver Transmitter (USART).</p>
+
+<p align="center">
+  <img src="https://github.com/ashrafjfr/Search-and-Rescue-Alex-Bot/blob/main/alex_images/alex.jpg" width="500" height="700">
+</p>
+
 <p>Alex is also equipped with a LiDAR sensor in order to form a map of its surroundings. The transfer of information between Alex and the operator works via Robotic Operating System (ROS) which uses a message broadcast and subscription model for communication between machines. We then use Hector SLAM as a visualisation package to draw out a map from the scans made by the LiDAR. Additionally, Alex also has colour, ultrasonic, gas, flame, and sound sensors as my team felt that these were essential on a Search-and-Rescue robot.</p>
 <p>My task for this project was setting up ROS on the RPi and connecting it to the operator&rsquo;s computer, implmenting Hector SLAM to map out the surroundings and to implement Alex&rsquo;s movement functionalities while also driving Alex in the final testing maze.</p>
+
+<p align="center">
+  <img src="https://github.com/ashrafjfr/Search-and-Rescue-Alex-Bot/blob/main/alex_images/alex_map.jpg" width="500" height="700">
+</p>
+
 <p><a href="https://github.com/ashrafjfr/Search-and-Rescue-Alex-Bot">View GitHub Repo here</a></p>
 <p><a href="https://github.com/ashrafjfr/Search-and-Rescue-Alex-Bot/blob/main/B03-6A%20Final%20Report.pdf">View Alex report here</a></p>
 <h2 id="mbot">
@@ -208,6 +218,11 @@
   </a>
 </h2>
 <p>The mBot was a project done during one of my modules. The objective of the mBot was to solve a random maze on its own given the functions that we have programmed on the bot. The mBot has ultrasonic sensors at the front to detect objects, infrared sensors on both sides to detect the maze walls to steer itself straight depending on its distance to the walls, and a colour sensor at the top to detect the colour of the maze roof which will dictate which direction the bot will move. This colour challenge function is triggered whenever the mBot detects a black strip on the floor.</p>
+
+<p align="center">
+  <img src="https://github.com/ashrafjfr/mBot-A-maze-ing-Race-Project/blob/main/mBot_pic/mbot.png" width="380" height="330">
+</p>
+
 <p>The mBot will continue finding its way until it detects a roof with black paper, indicating the end of the maze. It will then activate its buzzer and play a celebratory tune as it has completed the maze. The functions are implemented using conditional statements in an infinite loop often used for Arduinos.</p>
 <p><a href="https://github.com/ashrafjfr/mBot-A-maze-ing-Race-Project">View GitHub Repo here</a></p>
 <p><a href="https://github.com/ashrafjfr/mBot-A-maze-ing-Race-Project/blob/main/Amazeing%20Race%20Report.pdf">View mBot report here</a></p>
@@ -219,10 +234,26 @@
 </h2>
 <p>In this project, my project partner and I had to programme an FPGA board using Verilog. The main task was to create an sound display visualiser. We were given a microphone and LED display to be connected to the FPGA board. Whenever the microphone detects a sound, it will display the volume of the sound via the small LEDs over the switches. The connected LED Display can also be switched on to display a better visualisation of the volume level. The seven segment display on the left of the board will also display the volume level.</p>
 <p>Here is our working sound display with the volume bar.</p>
+<p align="center">
+  <img src="https://github.com/ashrafjfr/FPGA-Sound-Display-and-Games/blob/main/FPGA_pics/sound_display.png" width="700" height="400">
+</p>
 <p>Apart from the main task, we were given the freedom to create our own improvements and games to further show our understanding of Verilog, using the FPGA board and designing digital systems. For my individual work, I made a volume wave indicator that is able to display the changing volume levels to form a sound wave using volume bars.</p>
+<p align="center">
+  <img src="https://github.com/ashrafjfr/FPGA-Sound-Display-and-Games/blob/main/FPGA_pics/vol_wave.png" width="300" height="230">
+</p>
 <p>Secondly, I made a simple volume detector with a Pikachu mask visualisation. As the volume gets louder, or when a user blows into the mask, Pikachu gradually wears a full mask (so that it does not catch a virus when someone blows into his face &gt;.&lt;).</p>
+<p align="center">
+  <img src="https://github.com/ashrafjfr/FPGA-Sound-Display-and-Games/blob/main/FPGA_pics/pika_mask_open.png" width="300" height="230"> <img src="https://github.com/ashrafjfr/FPGA-Sound-Display-and-Games/blob/main/FPGA_pics/pika_mask.png" width="300" height="230">
+</p>
 <p>Last but not least, I made basketball game for 2 players. To score a point, a user must blow into the mic to lift the ball up and use the buttons on the FPGA to control the ball&rsquo;s movement. The user then stops blowing into the mic when the ball is above the hoop so that it can fall into the hoop to score a point.</p>
+<p align="center">
+  <img src="https://github.com/ashrafjfr/FPGA-Sound-Display-and-Games/blob/main/FPGA_pics/bball.png" width="300" height="230">
+</p>
 <p>For our final team item, we made a single and multiplayer ping pong game. A switch is used to determine whether player would like to play against the AI or against another player. Player will then use the buttons on the FPGA board to control the paddle. The scores for each player and AI will be displayed on the seven segment display and players can play up to 10 points. There are 3 levels of ball speed in both player modes and players can select the mode by making a loud sound to the mic, such as by snapping their fingers. The levels are indicated by the background colour, green, yellow, red, in order of slowest ball speed to fastest.</p>
+<p align="center">
+  <img src="https://github.com/ashrafjfr/FPGA-Sound-Display-and-Games/blob/main/FPGA_pics/ping_pong.jpg" width="400" height="230"> <img src="https://github.com/ashrafjfr/FPGA-Sound-Display-and-Games/blob/main/FPGA_pics/ping_pong_closeup.png" width="300" height="230">
+</p>
+
 <p><a href="https://github.com/ashrafjfr/FPGA-Sound-Display-and-Games">View GitHub Repo here</a></p>
 <p><a href="https://github.com/ashrafjfr/FPGA-Sound-Display-and-Games/blob/main/FPGA_Sound_Display_and_Games_Report.pdf">View FPGA report here</a></p>
 
